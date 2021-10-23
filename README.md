@@ -7,9 +7,10 @@ Profissional de Educação Física tentando se arriscar em programação!!!
 
 <div align="center">
   <a href="https://github.com/AngeloAraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoReinheimer&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloAraujo&layout=compact&langs_count=7&theme=light"/>
 </div>
 
+<<<<<<< HEAD
  <!---
  <div align="center">
   
@@ -26,3 +27,5 @@ Profissional de Educação Física tentando se arriscar em programação!!!
   ![Snake animation](https://github.com/AngeloAraujo/AngeloAraujo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+=======
+
